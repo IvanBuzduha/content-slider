@@ -28,7 +28,7 @@
   font-weight: 500;
 }
 :root {
-  --main-bg-color: #e75f04;
+  --main-bg-color: #04e72e;
   --shadow-color: #e7e7e4;
   --text-color: #555;
 }
@@ -48,7 +48,7 @@ header {
 }
 .list {
   position: relative;
-  background: #c2bdbd;
+  background: #c0d8b7;
   padding: 10px 60px;
   gap: 30px;
   display: flex;
